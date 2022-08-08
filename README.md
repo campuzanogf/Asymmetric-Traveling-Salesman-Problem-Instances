@@ -8,8 +8,6 @@ Comments within an instance's file start with /* and end with */ and have to be 
 
 Currently, this repository only contains a modified version of the single-center instances from: https://zenodo.org/record/1204676#.YX_6fJ7MJaR
 
-This repository contains the instances used for the paper "The Variable Speeds Asymmetric Traveling Salesman Problem with Drone".
-
-In the 1.4 version of the repository, we also added uniform instances of sizes 10 to 20 that we solved in the paper The Variable Speeds Asymmetric Traveling Salesman Problem with Drone. Campuzano Giovanni, Lalla-Ruiz Eduardo, & Mes Martijn. DOI: 
+This repository contains the instances used for the paper "The Variable Speeds Asymmetric Traveling Salesman Problem with Drone". Campuzano Giovanni, Lalla-Ruiz Eduardo, & Mes Martijn. DOI: 
 
 You are kindly requested to cite these papers if these instances are relevant to your research.
