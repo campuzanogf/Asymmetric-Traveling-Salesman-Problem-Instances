@@ -1,4 +1,4 @@
-# Variable Speeds Asymmetric Traveling Salesman Problem with Drone Instances
+# The Variable Speeds Asymmetric Traveling Salesman Problem with Drone Instances
 
 A repository with instances for the VS-ATSP-D with Drone
 
@@ -10,6 +10,6 @@ Currently, this repository only contains a modified version of the single-center
 
 This repository contains the instances used for the paper "The Variable Speeds Asymmetric Traveling Salesman Problem with Drone".
 
-In the 1.4 version of the repository, we also added uniform instances of sizes 10 to 20 that we solved in the paper The Asymmetric Traveling Salesman Problem with Drone. Campuzano Giovanni, Lalla-Ruiz Eduardo, & Mes Martijn. DOI: 
+In the 1.4 version of the repository, we also added uniform instances of sizes 10 to 20 that we solved in the paper The Variable Speeds Asymmetric Traveling Salesman Problem with Drone. Campuzano Giovanni, Lalla-Ruiz Eduardo, & Mes Martijn. DOI: 
 
 You are kindly requested to cite these papers if these instances are relevant to your research.
